@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PokeUtils/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/PokeUtils/static/js/main.012e6ded.chunk.js",
+    "main.js.map": "/PokeUtils/static/js/main.012e6ded.chunk.js.map",
+    "runtime-main.js": "/PokeUtils/static/js/runtime-main.c51e90b0.js",
+    "runtime-main.js.map": "/PokeUtils/static/js/runtime-main.c51e90b0.js.map",
+    "static/css/2.4124ffa8.chunk.css": "/PokeUtils/static/css/2.4124ffa8.chunk.css",
+    "static/js/2.5624d117.chunk.js": "/PokeUtils/static/js/2.5624d117.chunk.js",
+    "static/js/2.5624d117.chunk.js.map": "/PokeUtils/static/js/2.5624d117.chunk.js.map",
+    "index.html": "/PokeUtils/index.html",
+    "precache-manifest.a2bf4faba842f1ad62bdfa7fc7b757b9.js": "/PokeUtils/precache-manifest.a2bf4faba842f1ad62bdfa7fc7b757b9.js",
+    "service-worker.js": "/PokeUtils/service-worker.js",
+    "static/css/2.4124ffa8.chunk.css.map": "/PokeUtils/static/css/2.4124ffa8.chunk.css.map",
+    "static/css/main.d498bfb3.chunk.css.map": "/PokeUtils/static/css/main.d498bfb3.chunk.css.map",
+    "static/media/index.css": "/PokeUtils/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c51e90b0.js",
+    "static/css/2.4124ffa8.chunk.css",
+    "static/js/2.5624d117.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.012e6ded.chunk.js"
+  ]
+}
